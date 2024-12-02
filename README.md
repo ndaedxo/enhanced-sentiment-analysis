@@ -18,7 +18,7 @@ This project provides a powerful and flexible sentiment analysis tool using Pyth
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ndaedxo/enhanced-sentiment-analysis.git
+git https://github.com/ndaedxo/enhanced-sentiment-analysis.git
 cd enhanced-sentiment-analysis
 ```
 
@@ -113,6 +113,13 @@ Contributions are welcome! Please follow these steps:
 - Ensure all dependencies are correctly installed
 - Check that your input text or file is properly formatted
 - For large files, monitor system resources during processing
+
+## 👤 Author
+
+Ndaedzo Austin Mukhuba
+- GitHub: [@ndaedzo](https://github.com/ndaedxo)
+- LinkedIn: [Ndaedzo Austin Mukhuba](https://linkedin.com/in/ndaedzo-mukhuba-71759033b)
+- Email: [ndaemukhuba](ndaemukhuba@gmail.com)
 
 ## License
 
